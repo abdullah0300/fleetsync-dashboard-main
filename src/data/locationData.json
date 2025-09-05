@@ -1,0 +1,594 @@
+{
+  "US": {
+    "name": "United States",
+    "states": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "cities": {
+      "Alabama": [
+        "Birmingham",
+        "Montgomery",
+        "Mobile"
+      ],
+      "Alaska": [
+        "Anchorage",
+        "Fairbanks",
+        "Juneau"
+      ],
+      "Arizona": [
+        "Phoenix",
+        "Tucson",
+        "Mesa"
+      ],
+      "Arkansas": [
+        "Little Rock",
+        "Fort Smith",
+        "Fayetteville"
+      ],
+      "California": [
+        "Los Angeles",
+        "San Francisco",
+        "San Diego",
+        "Sacramento"
+      ],
+      "Colorado": [
+        "Denver",
+        "Colorado Springs",
+        "Aurora"
+      ],
+      "Connecticut": [
+        "Bridgeport",
+        "New Haven",
+        "Hartford"
+      ],
+      "Delaware": [
+        "Wilmington",
+        "Dover",
+        "Newark"
+      ],
+      "Florida": [
+        "Jacksonville",
+        "Miami",
+        "Tampa"
+      ],
+      "Georgia": [
+        "Atlanta",
+        "Augusta",
+        "Columbus"
+      ],
+      "Hawaii": [
+        "Honolulu",
+        "Hilo",
+        "Kailua"
+      ],
+      "Idaho": [
+        "Boise",
+        "Meridian",
+        "Nampa"
+      ],
+      "Illinois": [
+        "Chicago",
+        "Aurora",
+        "Springfield"
+      ],
+      "Indiana": [
+        "Indianapolis",
+        "Fort Wayne",
+        "Evansville"
+      ],
+      "Iowa": [
+        "Des Moines",
+        "Cedar Rapids",
+        "Davenport"
+      ],
+      "Kansas": [
+        "Wichita",
+        "Kansas City",
+        "Overland Park"
+      ],
+      "Kentucky": [
+        "Louisville",
+        "Lexington",
+        "Bowling Green"
+      ],
+      "Louisiana": [
+        "New Orleans",
+        "Baton Rouge",
+        "Shreveport"
+      ],
+      "Maine": [
+        "Portland",
+        "Lewiston",
+        "Bangor"
+      ],
+      "Maryland": [
+        "Baltimore",
+        "Annapolis",
+        "Frederick"
+      ],
+      "Massachusetts": [
+        "Boston",
+        "Worcester",
+        "Springfield"
+      ],
+      "Michigan": [
+        "Detroit",
+        "Grand Rapids",
+        "Warren"
+      ],
+      "Minnesota": [
+        "Minneapolis",
+        "Saint Paul",
+        "Rochester"
+      ],
+      "Mississippi": [
+        "Jackson",
+        "Gulfport",
+        "Southaven"
+      ],
+      "Missouri": [
+        "Kansas City",
+        "St. Louis",
+        "Springfield"
+      ],
+      "Montana": [
+        "Billings",
+        "Missoula",
+        "Great Falls"
+      ],
+      "Nebraska": [
+        "Omaha",
+        "Lincoln",
+        "Bellevue"
+      ],
+      "Nevada": [
+        "Las Vegas",
+        "Reno",
+        "Henderson"
+      ],
+      "New Hampshire": [
+        "Manchester",
+        "Nashua",
+        "Concord"
+      ],
+      "New Jersey": [
+        "Newark",
+        "Jersey City",
+        "Paterson"
+      ],
+      "New Mexico": [
+        "Albuquerque",
+        "Las Cruces",
+        "Santa Fe"
+      ],
+      "New York": [
+        "New York City",
+        "Buffalo",
+        "Rochester"
+      ],
+      "North Carolina": [
+        "Charlotte",
+        "Raleigh",
+        "Greensboro"
+      ],
+      "North Dakota": [
+        "Fargo",
+        "Bismarck",
+        "Grand Forks"
+      ],
+      "Ohio": [
+        "Columbus",
+        "Cleveland",
+        "Cincinnati"
+      ],
+      "Oklahoma": [
+        "Oklahoma City",
+        "Tulsa",
+        "Norman"
+      ],
+      "Oregon": [
+        "Portland",
+        "Salem",
+        "Eugene"
+      ],
+      "Pennsylvania": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Allentown"
+      ],
+      "Rhode Island": [
+        "Providence",
+        "Warwick",
+        "Cranston"
+      ],
+      "South Carolina": [
+        "Columbia",
+        "Charleston",
+        "Greenville"
+      ],
+      "South Dakota": [
+        "Sioux Falls",
+        "Rapid City",
+        "Aberdeen"
+      ],
+      "Tennessee": [
+        "Nashville",
+        "Memphis",
+        "Knoxville"
+      ],
+      "Texas": [
+        "Houston",
+        "San Antonio",
+        "Dallas"
+      ],
+      "Utah": [
+        "Salt Lake City",
+        "West Valley City",
+        "Provo"
+      ],
+      "Vermont": [
+        "Burlington",
+        "South Burlington",
+        "Rutland"
+      ],
+      "Virginia": [
+        "Virginia Beach",
+        "Richmond",
+        "Arlington"
+      ],
+      "Washington": [
+        "Seattle",
+        "Spokane",
+        "Tacoma"
+      ],
+      "West Virginia": [
+        "Charleston",
+        "Huntington",
+        "Morgantown"
+      ],
+      "Wisconsin": [
+        "Milwaukee",
+        "Madison",
+        "Green Bay"
+      ],
+      "Wyoming": [
+        "Cheyenne",
+        "Casper",
+        "Laramie"
+      ]
+    }
+  },
+  "Canada": {
+    "name": "Canada",
+    "states": [
+      "Alberta",
+      "British Columbia",
+      "Manitoba",
+      "New Brunswick",
+      "Newfoundland and Labrador",
+      "Northwest Territories",
+      "Nova Scotia",
+      "Nunavut",
+      "Ontario",
+      "Prince Edward Island",
+      "Quebec",
+      "Saskatchewan",
+      "Yukon"
+    ],
+    "cities": {
+      "Alberta": [
+        "Calgary",
+        "Edmonton",
+        "Red Deer"
+      ],
+      "British Columbia": [
+        "Vancouver",
+        "Victoria",
+        "Kelowna"
+      ],
+      "Manitoba": [
+        "Winnipeg",
+        "Brandon",
+        "Steinbach"
+      ],
+      "New Brunswick": [
+        "Saint John",
+        "Moncton",
+        "Fredericton"
+      ],
+      "Newfoundland and Labrador": [
+        "St. John's",
+        "Mount Pearl",
+        "Corner Brook"
+      ],
+      "Northwest Territories": [
+        "Yellowknife",
+        "Hay River",
+        "Inuvik"
+      ],
+      "Nova Scotia": [
+        "Halifax",
+        "Sydney",
+        "Dartmouth"
+      ],
+      "Nunavut": [
+        "Iqaluit",
+        "Rankin Inlet",
+        "Arviat"
+      ],
+      "Ontario": [
+        "Toronto",
+        "Ottawa",
+        "Mississauga"
+      ],
+      "Prince Edward Island": [
+        "Charlottetown",
+        "Summerside",
+        "Stratford"
+      ],
+      "Quebec": [
+        "Montreal",
+        "Quebec City",
+        "Laval"
+      ],
+      "Saskatchewan": [
+        "Saskatoon",
+        "Regina",
+        "Prince Albert"
+      ],
+      "Yukon": [
+        "Whitehorse",
+        "Dawson City",
+        "Watson Lake"
+      ]
+    }
+  },
+  "Mexico": {
+    "name": "Mexico",
+    "states": [
+      "Aguascalientes",
+      "Baja California",
+      "Baja California Sur",
+      "Campeche",
+      "Chiapas",
+      "Chihuahua",
+      "Coahuila",
+      "Colima",
+      "Durango",
+      "Guanajuato",
+      "Guerrero",
+      "Hidalgo",
+      "Jalisco",
+      "México",
+      "Mexico City",
+      "Michoacán",
+      "Morelos",
+      "Nayarit",
+      "Nuevo León",
+      "Oaxaca",
+      "Puebla",
+      "Querétaro",
+      "Quintana Roo",
+      "San Luis Potosí",
+      "Sinaloa",
+      "Sonora",
+      "Tabasco",
+      "Tamaulipas",
+      "Tlaxcala",
+      "Veracruz",
+      "Yucatán",
+      "Zacatecas"
+    ],
+    "cities": {
+      "Aguascalientes": [
+        "Aguascalientes",
+        "Jesús María",
+        "Calvillo"
+      ],
+      "Baja California": [
+        "Tijuana",
+        "Mexicali",
+        "Ensenada"
+      ],
+      "Baja California Sur": [
+        "La Paz",
+        "San José del Cabo",
+        "Cabo San Lucas"
+      ],
+      "Campeche": [
+        "Campeche",
+        "Ciudad del Carmen",
+        "Champotón"
+      ],
+      "Chiapas": [
+        "Tuxtla Gutiérrez",
+        "San Cristóbal de las Casas",
+        "Tapachula"
+      ],
+      "Chihuahua": [
+        "Chihuahua",
+        "Ciudad Juárez",
+        "Cuauhtémoc"
+      ],
+      "Coahuila": [
+        "Saltillo",
+        "Torreón",
+        "Monclova"
+      ],
+      "Colima": [
+        "Colima",
+        "Manzanillo",
+        "Villa de Álvarez"
+      ],
+      "Durango": [
+        "Durango",
+        "Gómez Palacio",
+        "Lerdo"
+      ],
+      "Guanajuato": [
+        "León",
+        "Irapuato",
+        "Celaya"
+      ],
+      "Guerrero": [
+        "Acapulco",
+        "Chilpancingo",
+        "Iguala"
+      ],
+      "Hidalgo": [
+        "Pachuca",
+        "Tulancingo",
+        "Tizayuca"
+      ],
+      "Jalisco": [
+        "Guadalajara",
+        "Zapopan",
+        "Tlaquepaque"
+      ],
+      "México": [
+        "Toluca",
+        "Ecatepec",
+        "Nezahualcóyotl"
+      ],
+      "Mexico City": [
+        "Mexico City",
+        "Iztapalapa",
+        "Gustavo A. Madero"
+      ],
+      "Michoacán": [
+        "Morelia",
+        "Uruapan",
+        "Zamora"
+      ],
+      "Morelos": [
+        "Cuernavaca",
+        "Ayala",
+        "Emiliano Zapata"
+      ],
+      "Nayarit": [
+        "Tepic",
+        "Bahía de Banderas",
+        "Ixtlán del Río"
+      ],
+      "Nuevo León": [
+        "Monterrey",
+        "Guadalupe",
+        "San Nicolás de los Garza"
+      ],
+      "Oaxaca": [
+        "Oaxaca de Juárez",
+        "Tuxtepec",
+        "Santa Cruz Xoxocotlán"
+      ],
+      "Puebla": [
+        "Puebla",
+        "Amozoc",
+        "San Pedro Cholula"
+      ],
+      "Querétaro": [
+        "Querétaro",
+        "San Juan del Río",
+        "Corregidora"
+      ],
+      "Quintana Roo": [
+        "Cancún",
+        "Chetumal",
+        "Playa del Carmen"
+      ],
+      "San Luis Potosí": [
+        "San Luis Potosí",
+        "Soledad de Graciano Sánchez",
+        "Ciudad Valles"
+      ],
+      "Sinaloa": [
+        "Culiacán",
+        "Mazatlán",
+        "Los Mochis"
+      ],
+      "Sonora": [
+        "Hermosillo",
+        "Ciudad Obregón",
+        "Nogales"
+      ],
+      "Tabasco": [
+        "Villahermosa",
+        "Cárdenas",
+        "Comalcalco"
+      ],
+      "Tamaulipas": [
+        "Reynosa",
+        "Matamoros",
+        "Nuevo Laredo"
+      ],
+      "Tlaxcala": [
+        "Tlaxcala",
+        "San Pablo del Monte",
+        "Apizaco"
+      ],
+      "Veracruz": [
+        "Veracruz",
+        "Xalapa",
+        "Coatzacoalcos"
+      ],
+      "Yucatán": [
+        "Mérida",
+        "Valladolid",
+        "Progreso"
+      ],
+      "Zacatecas": [
+        "Zacatecas",
+        "Fresnillo",
+        "Aguascalientes"
+      ]
+    }
+  }
+}
