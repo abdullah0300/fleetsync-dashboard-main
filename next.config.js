@@ -1,4 +1,3 @@
-
 const path = require('path')
 
 /** @type {import('next').NextConfig} */
@@ -8,6 +7,9 @@ const path = require('path')
 module.exports = {
   trailingSlash: true,
   reactStrictMode: false,
+  images: {
+    domains: ['ik.imagekit.io'], // ✅ allow ImageKit images
+  },
   webpack: config => {
     config.resolve.alias = {
       ...config.resolve.alias,

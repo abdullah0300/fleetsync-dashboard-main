@@ -327,9 +327,9 @@ const LoginPage = () => {
                   label='Remember Me'
                   control={<Checkbox checked={rememberMe} onChange={e => setRememberMe(e.target.checked)} />}
                 />
-                <Typography component={LinkStyled} href='/forgot-password'>
+                {/* <Typography component={LinkStyled} href='/forgot-password'>
                   Forgot Password?
-                </Typography>
+                </Typography> */}
               </Box>
               <Button
                 fullWidth
@@ -350,11 +350,11 @@ const LoginPage = () => {
               >
                 Login
               </Button>
-              <Box sx={{ textAlign: 'center' }}>
+              {/* <Box sx={{ textAlign: 'center' }}>
                 <Typography sx={{ color: fleetSeekColors.darkGray, fontFamily: 'Inter, sans-serif' }}>
-                  New to FleetSeek? <LinkStyled href='/register'>Create an account</LinkStyled>
+                  New to FleetSeek? <LinkStyled href='/register'>nt</LinkStyled>
                 </Typography>
-              </Box>
+              </Box> */}
             </form>
           </Box>
         </Box>
