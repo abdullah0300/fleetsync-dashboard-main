@@ -1151,7 +1151,7 @@ const HomePage = () => {
             </Grid>
             <Grid item xs={12} md={6}>
               <Stack direction='row' spacing={3} justifyContent={{ xs: 'flex-start', md: 'flex-end' }}>
-                <Link href='/privacy' style={{ color: palette.text.tertiary, textDecoration: 'none', fontSize: '12px' }}>
+                <Link href='/privacy-policy' style={{ color: palette.text.tertiary, textDecoration: 'none', fontSize: '12px' }}>
                   Privacy Policy
                 </Link>
                 <Link href='/terms' style={{ color: palette.text.tertiary, textDecoration: 'none', fontSize: '12px' }}>
