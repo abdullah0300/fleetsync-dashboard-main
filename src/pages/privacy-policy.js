@@ -141,10 +141,10 @@ const PrivacyPolicyPage = () => {
                 sx={{ cursor: 'pointer' }}
               >
                 <Image
-                  src="https://ik.imagekit.io/mctozv7td/apple-touch-icon.png?updatedAt=1757084860277"
+                  src="https://ik.imagekit.io/mctozv7td/truckers%20call_PJNvBU2hk?updatedAt=1757087437647"
                   alt="Trucker'sCall Logo"
-                  width={120}
-                  height={40}
+                  width={160}
+                  height={60}
                   style={{
                     objectFit: 'contain'
                   }}
